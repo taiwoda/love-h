@@ -1,0 +1,167 @@
+*{
+    margin-top: 0px;
+}
+
+.header{
+    margin: bottom 0px; 
+    display: flex;
+    border-bottom: 1px solid rgb(194, 189, 189);
+    position: fixed;
+    width: 100%;
+background-color: white;
+z-index: 1;
+
+    
+}
+.ola{
+display: flex;
+gap: 5px;
+margin-left: 200px;
+color: #081f89;
+text-decoration: none;
+border: none;
+margin-top: 30px;
+}
+.about{
+    width: 10%;
+    list-style: none;
+}
+.logo{
+    width: 10%;
+   margin-left: 110px; 
+}
+.study{
+
+font-family: 'Poppins', sans-serif;
+
+color: #1a0052;
+font-size: 50px;
+}
+.p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px; 
+    margin-top: -40px;
+font-weight: bold ;
+}
+#button{
+    padding: 20px;
+    background-color: #00208a;
+    border-radius: 10px;
+    color: white ;
+    font-size: 16px;
+cursor: pointer;
+padding-right: 30px;
+}
+#main2{
+    display: flex;
+    gap: 120px;
+}
+#learn{
+    margin-left: 120px;
+}
+.teach{
+    border-radius:100px;
+    
+}
+.picture{
+    background: url(img/teachable3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    margin-top: 100px;
+
+}
+#transparent {
+    background-color: transparent;
+    border: 2px solid white;
+    padding-right: 30px;
+padding-top: 10px;
+padding-bottom: 10px;
+    font-size: 22px;
+    color: white;
+    /* text-decoration: none; */
+}
+#transparent a:hover{
+    /* background-color: transparent; */
+    /* border: 2px solid white; */
+    padding: 20px;
+color: white;
+  
+}
+#glance{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    float: right;
+}
+#gra{ 
+    display: flex;
+    background-color: #f0faff;
+    gap: 90px;
+    margin-top: 80px;
+}
+#top{
+    margin-left: 150px;
+}
+#come{
+   border-radius: 1px;
+}
+#two{
+    display: flex;
+    gap: 90px;
+}
+#soft{
+    width:510px ; 
+    height: 708px;
+     background-color: #d5eaf3; 
+     border-radius: 20px; 
+     margin-left: 90px;
+}
+#data{
+    width:510px ; 
+    height: 708px;
+    background-color: #eeefbd; 
+     border-radius: 20px;
+     position: relative;
+     bottom: 90px;
+     border: solid black 1px;
+
+}
+#down{
+    width:510px ; 
+    height: 708px;
+    background-color: #eeefbd; 
+     border-radius: 20px;
+     position: relative;
+     bottom: 90px;
+     
+
+}
+#ui{
+    background-color: #e0d5c0;
+    width:510px ; 
+    height: 708px;
+    
+     border-radius: 20px; 
+     margin-left: 90px;
+}
+#digital{
+    width:510px ; 
+    height: 708px;
+    background-color: #dfd5e8; 
+     border-radius: 20px;
+     position: relative;
+     bottom: 90px;
+     border: solid black 1px;
+}
+#eng{
+    width: 20px;
+    height: 204px;
+    border-radius: 20px;
+    padding-left: 55px; 
+    padding-top: 70px; ;
+}
+#study{
+    font-size: 28px;
+    background-color: #f5f5f6;
+}
